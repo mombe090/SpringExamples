@@ -22,7 +22,7 @@
 	</parent>
 
 	<modules>
-		<module>minimum-setup</module>
+		<!--<module>minimum-setup</module>
 		<module>main-class</module>
 		<module>get-loaded-beans-info</module>
 		<module>disable-spring-boot-banner</module>
@@ -40,22 +40,22 @@
 		<module>enable-scheduling</module>
 		<module>rest-jersey-example</module>
 		<module>swagger-ui</module>
-		<!-- <module>rest-hateoas</module> -->
+		<module>rest-hateoas</module>
 		<module>resttemplate</module>
 		<module>logger-configuration</module>
-		<!-- <module>unit-testing</module> -->
+		<!-- <module>unit-testing</module> 
 		<module>spring-webflux-demo</module>
 		<module>rest-crud-hibernate</module>
-		<module>i18n</module>
+		<module>i18n</module>-->
 		<module>oauth2</module>
-		<module>spring-rmi</module>
+		<!--<module>spring-rmi</module>
     	<module>email</module>
 	    <module>aop</module>
 	    <module>batch-decorator</module>
 	    <module>batch-partitioner</module>
 	    <module>boot-hateoas</module>
     	<module>spring-reactive</module>
-    <module>spring-boot-hateoas</module>
+    <module>spring-boot-hateoas</module>-->
   </modules>
 
 	<build>
